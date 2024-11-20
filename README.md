@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fredteo101
+- 👋 Hi, I’m @Fredteo101 
 - 👀 I’m interested in Data Engineering, AI/ML, LLM
 - 🌱 I’m currently learning Python, SQL
 - 💞️ I’m looking to collaborate on ...
